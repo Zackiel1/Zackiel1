@@ -16,8 +16,6 @@
 ## My Skill Set  
 
 
-
-
 ### Frontend  
 <div >  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
@@ -59,8 +57,3 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackiel1&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
