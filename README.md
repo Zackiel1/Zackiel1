@@ -7,7 +7,7 @@
 - 🌱 Actualmente estoy aprendiendo React Native.  
   
 
-- ⚡ Dato sobre mis estudios: Estudie hasta el 4to semestre de Ingenieria Informativa, luego de forma autodidacta por mas de un año y realice el bootcamps SoyHenry (Desarrollador Web Full Stack).  
+- ⚡ Dato sobre mis estudios: Estudie hasta el 4to semestre de Ingenieria Informatica, luego de forma autodidacta por mas de un año y realice el bootcamps SoyHenry (Desarrollador Web Full Stack).  
   
 
 <br/>  
