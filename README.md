@@ -4,7 +4,7 @@
 - 🔭Actualmente estoy trabajando en la creacion de un sitio web para una estudio de tatuajes [ArtonioTatto](https://github.com/Zackiel1/Artonio-app)  
   
 
-- 🌱 Actualmente estoy aprendiendo AWS.  
+- 🌱 Actualmente estoy aprendiendo React Native.  
   
 
 - ⚡ Dato sobre mis estudios: Estudie de forma autodidacta por mas de un año y luego realice el bootcamps SoyHenry.  
